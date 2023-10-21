@@ -1,10 +1,6 @@
-# deposito, não pode depositar valores negativos
+print("Programado por Juliano Martins de Souza\n\n")
 
-# saques, limite de 3 diários com 500 reais de limite por saque
 
-# estrato contem todas as operações de saques e depositos, formatado com duas casas decimais e R$
-
-print()
 print("Bem vindo ao banco Money for nothing ".center(80))
 
 menu = """
